@@ -3,7 +3,7 @@ A fitness tracker application that uses Express, MongoDB, and Mongoose to view, 
 
 ## User Story
 ```
-AS A user, I want a fitness trakcer application to be able to track daily fitness activities
+AS A user, I want a fitness application to be able to track daily fitness activities
 
 I WANT to be able to log multiple exercises in a workout on a given day, track the name, type, weight, sets, reps, and duration of the exercise, and see the total distance traveled if I did cardio.
 
